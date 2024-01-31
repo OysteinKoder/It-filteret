@@ -1,0 +1,1130 @@
+@font-face {
+  font-family: Futura-Medium;
+  src: url("https://jobloop.no/fonts/Futura-Medium.woff");
+}
+@font-face {
+  font-family: Futura-Bold;
+  src: url("https://jobloop.no/fonts/Futura-Bold.woff");
+}
+@import url("https://fonts.googleapis.com/css?family=Roboto:100,100i,300,300i,400,400i,500,500i,700,700i,900,900i&display=swap");
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji",
+    "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #212529;
+  text-align: left;
+}
+* {
+  box-sizing: border-box;
+}
+
+.col-12 {
+  position: relative;
+  width: 100%;
+  padding-right: 15px;
+  padding-left: 15px;
+}
+
+.col-12 {
+  -ms-flex: 0 0 100%;
+  flex: 0 0 100%;
+  max-width: 100%;
+}
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji",
+    "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #212529;
+  text-align: left;
+  background-color: #fff;
+}
+
+body {
+  background-color: white;
+  color: white;
+  font-family: Roboto;
+}
+
+html {
+  font-family: sans-serif;
+  line-height: 1.15;
+  -webkit-text-size-adjust: 100%;
+  -webkit-tap-highlight-color: transparent;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+.col-12,
+.col-lg-8,
+.col-sm-10 {
+  position: relative;
+  width: 100%;
+  padding-right: 15px;
+  padding-left: 15px;
+}
+
+@media (min-width: 576px) {
+  .col-sm-10 {
+    -ms-flex: 0 0 83.333333%;
+    flex: 0 0 83.333333%;
+    max-width: 83.333333%;
+  }
+
+  .offset-sm-1 {
+    margin-left: 8.333333%;
+  }
+}
+
+@media (min-width: 992px) {
+  .col-lg-8 {
+    -ms-flex: 0 0 66.666667%;
+    flex: 0 0 66.666667%;
+    max-width: 66.666667%;
+  }
+
+  .offset-lg-2 {
+    margin-left: 16.666667%;
+  }
+}
+
+.py-5 {
+  padding-top: 3rem !important;
+}
+
+.py-5 {
+  padding-bottom: 3rem !important;
+}
+
+@media (min-width: 768px) {
+  .py-md-0 {
+    padding-top: 0 !important;
+  }
+
+  .py-md-0 {
+    padding-bottom: 0 !important;
+  }
+}
+
+.color-grey {
+  color: #575756;
+}
+
+.learnwell {
+  font-size: 1.3rem;
+  margin-bottom: 3rem;
+}
+
+*,
+:after,
+:before {
+  box-sizing: border-box;
+}
+
+h1 {
+  margin-top: 0;
+  margin-bottom: 0.5rem;
+}
+
+h1 {
+  margin-bottom: 0.5rem;
+  font-weight: 500;
+  line-height: 1.2;
+}
+
+h1 {
+  font-size: 2.5rem;
+}
+
+h1 {
+  font-family: Futura-Bold;
+  font-size: 4.2rem;
+}
+
+.color-aqua {
+  color: #77c4b4;
+}
+
+.learnwell h1:first-of-type {
+  margin-top: 4rem;
+}
+
+h2 {
+  margin-top: 0;
+  margin-bottom: 0.5rem;
+}
+
+h2 {
+  margin-bottom: 0.5rem;
+  font-weight: 500;
+  line-height: 1.2;
+}
+
+h2 {
+  font-size: 2rem;
+}
+
+h2 {
+  font-family: Futura-Medium;
+  font-size: 1.5rem;
+}
+
+.learnwell h2:first-of-type {
+  margin-top: 5rem;
+  margin-bottom: 2rem;
+}
+
+p {
+  margin-top: 0;
+  margin-bottom: 1rem;
+}
+
+p {
+  font-size: 1.2rem;
+}
+
+.learnwell p {
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+}
+
+ul {
+  margin-top: 0;
+  margin-bottom: 1rem;
+}
+
+/* These were inline style tags. Uses id+class to override almost everything */
+#style-HEoMX.style-HEoMX {
+  margin-top: 2rem;
+}
+#style-yq6q1.style-yq6q1 {
+  font-weight: bold;
+}
+
+@font-face {
+  font-family: Futura-Medium;
+  src: url("https://jobloop.no/fonts/Futura-Medium.woff");
+}
+@import url("https://fonts.googleapis.com/css?family=Roboto:100,100i,300,300i,400,400i,500,500i,700,700i,900,900i&display=swap");
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji",
+    "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #212529;
+  text-align: left;
+}
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji",
+    "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #212529;
+  text-align: left;
+  background-color: #fff;
+}
+
+body {
+  background-color: white;
+  color: white;
+  font-family: Roboto;
+}
+
+html {
+  font-family: sans-serif;
+  line-height: 1.15;
+  -webkit-text-size-adjust: 100%;
+  -webkit-tap-highlight-color: transparent;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+.row {
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
+  margin-right: -15px;
+  margin-left: -15px;
+}
+
+*,
+:after,
+:before {
+  box-sizing: border-box;
+}
+
+.color-grey {
+  color: #575756;
+}
+
+h2 {
+  margin-top: 0;
+  margin-bottom: 0.5rem;
+}
+
+h2 {
+  margin-bottom: 0.5rem;
+  font-weight: 500;
+  line-height: 1.2;
+}
+
+h2 {
+  font-size: 2rem;
+}
+
+h2 {
+  font-family: Futura-Medium;
+  font-size: 1.5rem;
+}
+
+h2:first-of-type {
+  margin-top: 5rem;
+  margin-bottom: 2rem;
+}
+
+p {
+  margin-top: 0;
+  margin-bottom: 1rem;
+}
+
+p {
+  font-size: 1.2rem;
+}
+
+.learnwell p {
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+}
+
+.pb-4 {
+  padding-bottom: 1.5rem !important;
+}
+
+.col-md-8 {
+  position: relative;
+  width: 100%;
+  padding-right: 15px;
+  padding-left: 15px;
+}
+
+@media (min-width: 768px) {
+  .col-md-8 {
+    -ms-flex: 0 0 66.666667%;
+    flex: 0 0 66.666667%;
+    max-width: 66.666667%;
+  }
+
+  .offset-md-2 {
+    margin-left: 16.666667%;
+  }
+}
+
+.col-12,
+.col-md-8 {
+  position: relative;
+  width: 100%;
+  padding-right: 15px;
+  padding-left: 15px;
+}
+
+strong {
+  font-weight: bolder;
+}
+
+ol {
+  margin-top: 0;
+  margin-bottom: 1rem;
+}
+
+.trinn ol {
+  counter-reset: li;
+  padding-left: 0;
+  margin-bottom: 3rem;
+}
+
+.trinn ol li {
+  position: relative;
+  list-style: none;
+  font-family: Futura-Medium;
+  margin-bottom: 1rem;
+  font-size: 1.5rem;
+}
+
+.trinn ol li::before {
+  content: counter(li);
+  counter-increment: li;
+  color: white;
+  background-color: #77c4b4;
+  margin-right: 1rem;
+  display: inline-block;
+  vertical-align: middle;
+  text-align: center;
+  width: 3rem;
+  height: 3rem;
+  padding-top: 0.4rem;
+  border-radius: 50%;
+  border: 1px solid white;
+}
+
+.hidden {
+  display: none;
+}
+
+.trinn li p {
+  font-family: Roboto;
+  color: #575756;
+  font-size: 1.2rem;
+  margin-left: 4rem;
+}
+
+a {
+  color: #007bff;
+  text-decoration: none;
+  background-color: transparent;
+}
+
+.trinn ol a {
+  color: #f4a366;
+}
+
+a:hover {
+  color: #0056b3;
+  text-decoration: underline;
+}
+
+.trinn ol a:hover {
+  color: #f4a366;
+  text-decoration: underline;
+}
+
+/* These were inline style tags. Uses id+class to override almost everything */
+#style-sBkcD.style-sBkcD {
+  margin-top: 0rem;
+}
+
+@font-face {
+  font-family: Futura-Medium;
+  src: url("https://jobloop.no/fonts/Futura-Medium.woff");
+}
+@import url("https://fonts.googleapis.com/css?family=Roboto:100,100i,300,300i,400,400i,500,500i,700,700i,900,900i&display=swap");
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji",
+    "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #212529;
+  text-align: left;
+}
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji",
+    "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #212529;
+  text-align: left;
+  background-color: #fff;
+}
+
+body {
+  background-color: white;
+  color: white;
+  font-family: Roboto;
+}
+
+html {
+  font-family: sans-serif;
+  line-height: 1.15;
+  -webkit-text-size-adjust: 100%;
+  -webkit-tap-highlight-color: transparent;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+*,
+:after,
+:before {
+  box-sizing: border-box;
+}
+
+nav {
+  display: block;
+}
+
+.navbar {
+  position: relative;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
+  -ms-flex-align: center;
+  align-items: center;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
+  padding: 0.5rem 1rem;
+}
+
+@media (min-width: 992px) {
+  .navbar-expand-lg {
+    -ms-flex-flow: row nowrap;
+    flex-flow: row nowrap;
+    -ms-flex-pack: start;
+    justify-content: flex-start;
+  }
+}
+
+.navbar {
+  font-size: 1.2rem;
+  font-family: Futura-Medium;
+  margin-top: 0rem;
+}
+
+@media (min-width: 1100px) {
+  .navbar {
+    margin-left: 3rem;
+    margin-right: 2rem;
+    margin-top: 1rem;
+  }
+}
+
+button {
+  border-radius: 0;
+}
+
+button {
+  margin: 0;
+  font-family: inherit;
+  font-size: inherit;
+  line-height: inherit;
+}
+
+button {
+  overflow: visible;
+}
+
+button {
+  text-transform: none;
+}
+
+[type="button"],
+button {
+  -webkit-appearance: button;
+}
+
+.navbar-toggler {
+  padding: 0.25rem 0.75rem;
+  font-size: 1.25rem;
+  line-height: 1;
+  background-color: transparent;
+  border: 1px solid transparent;
+  border-radius: 0.25rem;
+}
+
+.navbar-toggler {
+  border: none;
+}
+
+[type="button"]:not(:disabled),
+button:not(:disabled) {
+  cursor: pointer;
+}
+
+@media (min-width: 992px) {
+  .navbar-expand-lg .navbar-toggler {
+    display: none;
+  }
+}
+
+.navbar-light .navbar-toggler {
+  color: rgba(0, 0, 0, 0.5);
+  border-color: rgba(0, 0, 0, 0.1);
+}
+
+.navbar-toggler:hover {
+  text-decoration: none;
+}
+
+.navbar-collapse {
+  -ms-flex-preferred-size: 100%;
+  flex-basis: 100%;
+  -ms-flex-positive: 1;
+  flex-grow: 1;
+  -ms-flex-align: center;
+  align-items: center;
+}
+
+.collapse:not(.show) {
+  display: none;
+}
+
+@media (min-width: 992px) {
+  .navbar-expand-lg .navbar-collapse {
+    display: -ms-flexbox !important;
+    display: flex !important;
+    -ms-flex-preferred-size: auto;
+    flex-basis: auto;
+  }
+}
+
+.navbar-toggler-icon {
+  display: inline-block;
+  width: 1.5em;
+  height: 1.5em;
+  vertical-align: middle;
+  content: "";
+  background: no-repeat center center;
+  background-size: 100% 100%;
+}
+
+.navbar-light .navbar-toggler-icon {
+  background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' width='30' height='30' viewBox='0 0 30 30'%3e%3cpath stroke='rgba(0, 0, 0, 0.5)' stroke-linecap='round' stroke-miterlimit='10' stroke-width='2' d='M4 7h22M4 15h22M4 23h22'/%3e%3c/svg%3e");
+}
+
+.navbar-light .navbar-toggler-icon {
+  background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' width='30' height='30' viewBox='0 0 30 30'%3e%3cpath stroke='rgba(119, 196, 180, 0.9)' stroke-linecap='round' stroke-miterlimit='10' stroke-width='4' d='M4 7h22M4 15h22M4 23h22'/%3e%3c/svg%3e");
+}
+
+ul {
+  margin-top: 0;
+  margin-bottom: 1rem;
+}
+
+.navbar-nav {
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  padding-left: 0;
+  margin-bottom: 0;
+  list-style: none;
+}
+
+.ml-auto {
+  margin-left: auto !important;
+}
+
+.text-right {
+  text-align: right !important;
+}
+
+@media (min-width: 992px) {
+  .navbar-expand-lg .navbar-nav {
+    -ms-flex-direction: row;
+    flex-direction: row;
+  }
+}
+
+.dropdown {
+  position: relative;
+}
+
+.navbar-nav > li {
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+.nav-item:hover {
+  text-decoration: underline;
+  color: white;
+  text-decoration-thickness: 0.1rem;
+  text-underline-offset: 0.5rem;
+}
+
+.navbar-light .navbar-nav .nav-item:hover {
+  text-decoration: underline;
+  color: #77c4b4;
+  text-decoration-thickness: 0.1rem;
+  text-underline-offset: 0.5rem;
+}
+
+.navbar-light .navbar-nav .nav-item:focus,
+.navbar-light .navbar-nav .nav-item:hover {
+  text-decoration: underline;
+  color: #77c4b4;
+  text-decoration-thickness: 0.1rem;
+  text-underline-offset: 0.5rem;
+}
+
+a {
+  color: #007bff;
+  text-decoration: none;
+  background-color: transparent;
+}
+
+.dropdown-toggle {
+  white-space: nowrap;
+}
+
+.nav-link {
+  display: block;
+  padding: 0.5rem 1rem;
+}
+
+.navbar-nav .nav-link {
+  padding-right: 0;
+  padding-left: 0;
+}
+
+@media (min-width: 992px) {
+  .navbar-expand-lg .navbar-nav .nav-link {
+    padding-right: 0.5rem;
+    padding-left: 0.5rem;
+  }
+}
+
+.navbar-light .navbar-nav .nav-link {
+  color: rgba(0, 0, 0, 0.5);
+}
+
+.navbar-light .navbar-nav .nav-link {
+  color: #77c4b4;
+}
+
+.dropdown-toggle:after {
+  display: inline-block;
+  margin-left: 0.255em;
+  vertical-align: 0.255em;
+  content: "";
+  border-top: 0.3em solid;
+  border-right: 0.3em solid transparent;
+  border-bottom: 0;
+  border-left: 0.3em solid transparent;
+}
+
+a:hover {
+  color: #0056b3;
+  text-decoration: underline;
+}
+
+.nav-link:hover {
+  text-decoration: none;
+}
+
+.navbar-light .navbar-nav .nav-link:hover {
+  color: rgba(0, 0, 0, 0.7);
+}
+
+.navbar-light .navbar-nav .nav-link:focus,
+.navbar-light .navbar-nav .nav-link:hover {
+  color: #77c4b4;
+}
+
+.dropdown-menu {
+  position: absolute;
+  top: 100%;
+  left: 0;
+  z-index: 1000;
+  display: none;
+  float: left;
+  min-width: 10rem;
+  padding: 0.5rem 0;
+  margin: 0.125rem 0 0;
+  font-size: 1rem;
+  color: #212529;
+  text-align: left;
+  list-style: none;
+  background-color: #fff;
+  background-clip: padding-box;
+  border: 1px solid rgba(0, 0, 0, 0.15);
+  border-radius: 0.25rem;
+}
+
+.navbar-nav .dropdown-menu {
+  position: static;
+  float: none;
+}
+
+.navbar .dropdown-menu {
+  border: 0;
+  margin-top: 0;
+  padding-top: 0.75rem;
+}
+
+@media (min-width: 992px) {
+  .navbar-expand-lg .navbar-nav .dropdown-menu {
+    position: absolute;
+  }
+}
+
+ul.navbar-nav li.dropdown:hover > div.dropdown-menu {
+  display: block !important;
+}
+
+.navbar-light .navbar-nav .nav-link:focus,
+.navbar-light .navbar-nav .nav-link:hover {
+  color: rgba(0, 0, 0, 0.7);
+}
+
+.dropdown-item {
+  display: block;
+  width: 100%;
+  padding: 0.25rem 1.5rem;
+  clear: both;
+  font-weight: 400;
+  color: #212529;
+  text-align: inherit;
+  white-space: nowrap;
+  background-color: transparent;
+  border: 0;
+}
+
+.navbar .dropdown-item {
+  padding-left: 0.5rem;
+  color: white;
+}
+
+.navbar-light .dropdown-item {
+  padding-left: 0.5rem;
+  color: #77c4b4;
+}
+
+.dropdown-item:hover {
+  color: #16181b;
+  text-decoration: none;
+  background-color: #f8f9fa;
+}
+
+.dropdown-item:hover {
+  color: white;
+  background-color: inherit;
+  text-decoration: underline;
+}
+
+.navbar-light .dropdown-item:hover {
+  color: #77c4b4;
+  background-color: inherit;
+  text-decoration: underline;
+}
+
+@font-face {
+  font-family: Futura-Medium;
+  src: url("https://jobloop.no/fonts/Futura-Medium.woff");
+}
+@import url("https://fonts.googleapis.com/css?family=Roboto:100,100i,300,300i,400,400i,500,500i,700,700i,900,900i&display=swap");
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji",
+    "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #212529;
+  text-align: left;
+}
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji",
+    "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #212529;
+  text-align: left;
+  background-color: #fff;
+}
+
+body {
+  background-color: white;
+  color: white;
+  font-family: Roboto;
+}
+
+html {
+  font-family: sans-serif;
+  line-height: 1.15;
+  -webkit-text-size-adjust: 100%;
+  -webkit-tap-highlight-color: transparent;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+.row {
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
+  margin-right: -15px;
+  margin-left: -15px;
+}
+
+*,
+:after,
+:before {
+  box-sizing: border-box;
+}
+
+.col-12 {
+  position: relative;
+  width: 100%;
+  padding-right: 15px;
+  padding-left: 15px;
+}
+
+.col-12 {
+  -ms-flex: 0 0 100%;
+  flex: 0 0 100%;
+  max-width: 100%;
+}
+
+.col-12,
+.col-lg-8,
+.col-sm-10 {
+  position: relative;
+  width: 100%;
+  padding-right: 15px;
+  padding-left: 15px;
+}
+
+@media (min-width: 576px) {
+  .col-sm-10 {
+    -ms-flex: 0 0 83.333333%;
+    flex: 0 0 83.333333%;
+    max-width: 83.333333%;
+  }
+
+  .offset-sm-1 {
+    margin-left: 8.333333%;
+  }
+}
+
+@media (min-width: 992px) {
+  .col-lg-8 {
+    -ms-flex: 0 0 66.666667%;
+    flex: 0 0 66.666667%;
+    max-width: 66.666667%;
+  }
+
+  .offset-lg-2 {
+    margin-left: 16.666667%;
+  }
+}
+
+.color-grey {
+  color: #575756;
+}
+
+.bg-white {
+  background-color: #fff !important;
+}
+
+.bg-white {
+  background-color: white;
+}
+
+p {
+  margin-top: 0;
+  margin-bottom: 1rem;
+}
+
+p {
+  font-size: 1.2rem;
+}
+
+.col-12,
+.col-lg-6 {
+  position: relative;
+  width: 100%;
+  padding-right: 15px;
+  padding-left: 15px;
+}
+
+@media (min-width: 992px) {
+  .col-lg-6 {
+    -ms-flex: 0 0 50%;
+    flex: 0 0 50%;
+    max-width: 50%;
+  }
+}
+
+.learnwell p {
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+}
+
+img {
+  vertical-align: middle;
+  border-style: none;
+}
+
+.w-100 {
+  width: 100% !important;
+}
+
+h2 {
+  margin-top: 0;
+  margin-bottom: 0.5rem;
+}
+
+h2 {
+  margin-bottom: 0.5rem;
+  font-weight: 500;
+  line-height: 1.2;
+}
+
+h2 {
+  font-size: 2rem;
+}
+
+h2 {
+  font-family: Futura-Medium;
+  font-size: 1.5rem;
+}
+
+/* These were inline style tags. Uses id+class to override almost everything */
+#style-GnsDr.style-GnsDr {
+  color: black;
+}
+#style-hPrWP.style-hPrWP {
+  padding-bottom: 0px;
+}
+#style-xq5bS.style-xq5bS {
+  padding-top: 0px;
+}
+
+@font-face {
+  font-family: Futura-Medium;
+  src: url("https://jobloop.no/fonts/Futura-Medium.woff");
+}
+@import url("https://fonts.googleapis.com/css?family=Roboto:100,100i,300,300i,400,400i,500,500i,700,700i,900,900i&display=swap");
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji",
+    "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #212529;
+  text-align: left;
+}
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji",
+    "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #212529;
+  text-align: left;
+  background-color: #fff;
+}
+
+body {
+  background-color: white;
+  color: white;
+  font-family: Roboto;
+}
+
+html {
+  font-family: sans-serif;
+  line-height: 1.15;
+  -webkit-text-size-adjust: 100%;
+  -webkit-tap-highlight-color: transparent;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+*,
+:after,
+:before {
+  box-sizing: border-box;
+}
+
+.d-flex {
+  display: -ms-flexbox !important;
+  display: flex !important;
+}
+
+.flex-column {
+  -ms-flex-direction: column !important;
+  flex-direction: column !important;
+}
+
+.justify-content-between {
+  -ms-flex-pack: justify !important;
+  justify-content: space-between !important;
+}
+
+.align-items-center {
+  -ms-flex-align: center !important;
+  align-items: center !important;
+}
+
+.color-grey {
+  color: #575756;
+}
+
+.bg-aqua {
+  background-color: #77c4b4;
+}
+
+p {
+  margin-top: 0;
+  margin-bottom: 1rem;
+}
+
+p {
+  font-size: 1.2rem;
+}
+
+.mb-0 {
+  margin-bottom: 0 !important;
+}
+
+[type="button"]:not(:disabled),
+button:not(:disabled) {
+  cursor: pointer;
+}
+
+.navbar-toggler:hover {
+  text-decoration: none;
+}
+
+/* These were inline style tags. Uses id+class to override almost everything */
+#style-Ept2c.style-Ept2c {
+  height: 20vh;
+}
